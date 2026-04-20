@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Monika Krail, a Data Analyst at Dellshaw Ltd working with large datasets to clean, organise, and transform data into meaningful insights and visualisations.
+Skilled in SQL, Python, and Power BI. 
+Always keen to learn new tools and grow my skillset.
+In my free time, I enjoy reading and developing new skills.
